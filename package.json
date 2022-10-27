@@ -1,0 +1,29 @@
+{
+  "name": "@mw-experts/eslint-config-ts",
+  "version": "0.0.1",
+  "description": "Strict ESLint rules for Typescript and Jest",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Andrey Korovin",
+    "email": "misticwonder@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mw-experts/eslint-config-ts.git"
+  },
+  "homepage": "https://github.com/mw-experts/eslint-config-ts#readme",
+  "dependencies": {
+    "eslint-plugin-jest": "^27.1.3"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0"
+  },
+  "scripts": {
+    "publish": "npm publish --access=public"
+  }
+}
