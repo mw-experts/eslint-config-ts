@@ -1,6 +1,6 @@
 {
   "name": "@mw-experts/eslint-config-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Strict ESLint rules for Typescript and Jest",
   "keywords": [
     "eslint",
@@ -25,6 +25,7 @@
     "@typescript-eslint/eslint-plugin": "^5.0.0"
   },
   "scripts": {
+    "patch": "npm version patch",
     "publish": "npm publish --access=public"
   }
 }
