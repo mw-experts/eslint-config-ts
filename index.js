@@ -118,5 +118,9 @@ module.exports = {
         }
       }
     ],
+
+    'jest/no-hooks': 'off',
+    'jest/require-hook': 'off',
+    'jest/prefer-lowercase-title': 'off',
   },
 };
