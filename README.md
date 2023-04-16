@@ -3,7 +3,7 @@
 ## Install
 
 ```
-npm i @mw-experts/eslint-config-ts @typescript-eslint/eslint-plugin
+npm i -D @mw-experts/eslint-config-ts @typescript-eslint/eslint-plugin
 ```
 
 Add to `.eslintrc.js`
