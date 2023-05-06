@@ -12,6 +12,7 @@ module.exports = {
       }
     ],
     "no-param-reassign": ["error"],
+    "require-atomic-updates": ["error"],
     "eqeqeq": ["error", "always"],
     "no-return-await": "off",
 
