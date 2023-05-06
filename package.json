@@ -26,6 +26,7 @@
   },
   "scripts": {
     "patch": "npm version patch",
+    "login": "npm login",
     "deploy": "npm publish --access=public"
   }
 }
