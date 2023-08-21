@@ -2,6 +2,7 @@ module.exports = {
   extends: [
     'plugin:import/recommended',
     'plugin:import/typescript',
+    'plugin:unicorn/all',
     'plugin:jest/all',
   ],
   rules: {
