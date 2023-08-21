@@ -1,6 +1,6 @@
 {
   "name": "@mw-experts/eslint-config-ts",
-  "version": "0.0.10",
+  "version": "1.0.0",
   "description": "Strict ESLint rules for Typescript and Jest",
   "keywords": [
     "eslint",
