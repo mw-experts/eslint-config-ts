@@ -15,13 +15,11 @@ module.exports = {
     "no-param-reassign": ["error"],
     "require-atomic-updates": ["error"],
     "eqeqeq": ["error", "always"],
-    "no-return-await": "off",
 
     "@typescript-eslint/no-unused-vars": "off",
     "@typescript-eslint/no-inferrable-types": "off",
     "@typescript-eslint/no-non-null-assertion": ["error"],
     "@typescript-eslint/no-explicit-any": ["error"],
-    "@typescript-eslint/return-await": ['error', 'always'],
     "@typescript-eslint/typedef": [
       "error",
       {
