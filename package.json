@@ -18,12 +18,12 @@
   },
   "homepage": "https://github.com/mw-experts/eslint-config-ts#readme",
   "dependencies": {
-    "eslint-plugin-import": "^2.29.0",
-    "eslint-plugin-jest": "^27.6.0",
-    "eslint-plugin-unicorn": "^49.0.0"
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jest": "^28.8.0",
+    "eslint-plugin-unicorn": "^55.0.0"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.13.2"
+    "@typescript-eslint/eslint-plugin": "^7.16.0"
   },
   "scripts": {
     "patch": "npm version patch",
