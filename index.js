@@ -223,6 +223,7 @@ module.exports = {
     ],
 
     'unicorn/prefer-top-level-await': 'off',
+    'unicorn/prefer-module': 'off',
 
     'jest/no-hooks': 'off',
     'jest/require-hook': 'off',
