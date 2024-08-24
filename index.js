@@ -222,6 +222,8 @@ module.exports = {
       }
     ],
 
+    'unicorn/prefer-top-level-await': 'off',
+
     'jest/no-hooks': 'off',
     'jest/require-hook': 'off',
     'jest/prefer-lowercase-title': 'off',
